@@ -1,4 +1,4 @@
-
+[![Build Status](https://avinashroshan.visualstudio.com/testMaven/_apis/build/status/avinrosh.pipelines-java?branchName=master)](https://avinashroshan.visualstudio.com/testMaven/_build/latest?definitionId=11&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
